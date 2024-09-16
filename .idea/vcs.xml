@@ -2,8 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/dio-curso-git-github" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/dio-lab-open-source" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/trilha-java-basico/tipos-e-variaveis" vcs="Git" />
   </component>
 </project>
