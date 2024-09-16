@@ -25,7 +25,7 @@ public class MinhaClasse {
     public static String nomeCompleto (String priNome, String segNome){
 
 //           return priNome.concat(" ").concat(segNome);
-             return "Resultado do método " + priNome.concat(" ").concat(segNome);
+             return "Resultado do método: " + priNome.concat(" ").concat(segNome);
     }
 
 
